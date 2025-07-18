@@ -50,3 +50,7 @@ Thumbs.db
 # Secrets
 .env
 *.env
+
+# Project files
+prompt
+CLAUDE.md

@@ -1,8 +1,0 @@
-here in this project I have created a virtual env called "DNS_env" and project name as "d_n_s". now  
- add a new Django app called "authentication" for login,logout, and register. Also create another  
- Django app called "home_page" where we get out main project dashboard page. But before showing the  
- dashboard I want to showcase the feature of this project one by one. For example, when we complete  
- out authentication then we should navigate to home_page app where user first see one feature of
-this project and also there will be continue button which help to showcase another feature of the  
- project one by one. After showing all the features of this project then finally we will get to see  
- the dashboard page.[note: make the transition from one feature to another smooth and professional].
